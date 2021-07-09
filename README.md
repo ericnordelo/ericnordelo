@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?theme=radical&username=ericnordelo&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=ericnordelo&layout=compact&langs_count=10&hide=cofeescript,html,css,php,tex&exclude_repo=mean,lazyload,infotiendas-listar,NetworkDiscoverer,OptativesApp,swagup-salesforce-vscode,infotiendas,greeting_cards)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ericnordelo/ericnordelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
