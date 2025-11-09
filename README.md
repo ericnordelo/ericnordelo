@@ -1,19 +1,29 @@
-### Hi there 👋
+### 👋 Hi there
 
-I'm Eric, a lead open-source dev at OpenZeppelin focused on blockchain infrastructure, especially Cairo and Starknet. I contribute to developer tools and secure smart contract libraries.
+I'm **Eric Nordelo**, a **Lead Open Source Developer at [OpenZeppelin](https://github.com/OpenZeppelin)**.  
+I work on **blockchain infrastructure** and **smart contract security**, focusing on the **Cairo language** and the **Starknet ecosystem**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=ericnordelo&layout=compact&langs_count=10&hide=cofeescript,html,css,php,tex&exclude_repo=mean,lazyload,infotiendas-listar,NetworkDiscoverer,OptativesApp,swagup-salesforce-vscode,infotiendas,greeting_cards)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**ericnordelo/ericnordelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![X (Twitter)](https://img.shields.io/twitter/follow/ericng39?style=flat&logo=x&logoColor=white&label=Follow&labelColor=000000&color=1DA1F2)](https://x.com/ericng39)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ericnordelo/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💡 What I Do
+
+- Lead the development of **OpenZeppelin’s Cairo Contracts** — secure, composable building blocks for **Starknet**.  
+- Lead the development of **OpenZeppelin Contracts for Sui**, secure primitives for the **Sui/Move** ecosystem.  
+- **Software Engineering**...  
+
+---
+
+#### 📊 Languages & Activity
+
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=catppuccin_latte&username=ericnordelo&layout=compact&langs_count=10&hide=coffeescript,html,css,php,tex&exclude_repo=mean,lazyload,infotiendas-listar,NetworkDiscoverer,OptativesApp,swagup-salesforce-vscode,infotiendas,greeting_cards)](https://github.com/anuraghazra/github-readme-stats) | ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericnordelo&show_icons=true&theme=catppuccin_latte) |
+
+---
+
+#### 🌐 Find Me Online
+- 🐦 X/Twitter: [@ericng39](https://x.com/ericng39)
+- 💼 LinkedIn: [@ericnordelo](https://www.linkedin.com/in/ericnordelo/)
+
+---
