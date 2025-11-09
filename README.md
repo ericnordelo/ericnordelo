@@ -18,7 +18,7 @@ I work on **blockchain infrastructure** and **smart contract security**, focusin
 
 #### 📊 Languages & Activity
 
-| ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericnordelo&show_icons=true&theme=catppuccin_latte) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=catppuccin_latte&username=ericnordelo&layout=compact&langs_count=10&hide=coffeescript,html,css,php,solidity&exclude_repo=mean,lazyload,infotiendas-listar,NetworkDiscoverer,OptativesApp,swagup-salesforce-vscode,infotiendas,greeting_cards)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericnordelo&show_icons=true&theme=catppuccin_latte) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=catppuccin_latte&username=ericnordelo&layout=compact&langs_count=10&hide=coffeescript,html,css,php,solidity&exclude_repo=mean,lazyload,infotiendas-listar,NetworkDiscoverer,OptativesApp,swagup-salesforce-vscode,infotiendas,greeting_cards&count_weight=0.1)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
 
